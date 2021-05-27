@@ -1,5 +1,5 @@
 # RNA-secondary-structure-prediction-using-CNN
-Materials for "RNA secondary structure prediction with ConvolutionalNeural Networks" submitted to PLOS Computational Biology
+Materials for "RNA secondary structure prediction with ConvolutionalNeural Networks" submitted to BMC bioinformatics
 
 All the following materials would be available upon the acceptance:
 * Datasets split in train, validation, and test sets (RNAStrAlign, ArchiveII, and BpRNA)
