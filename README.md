@@ -1,5 +1,5 @@
 # RNA-secondary-structure-prediction-using-CNN
-Materials for "RNA secondary structure prediction with ConvolutionalNeural Networks" submitted to BMC Bioinformatics.
+Materials for "[RNA secondary structure prediction with ConvolutionalNeural Networks](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04540-7)" publisehd in BMC Bioinformatics.
 
 MIT Licence, 2022, Mehdi Saman Booy
 
