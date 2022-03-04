@@ -4,3 +4,7 @@ run.sh
 time_list
 trian_list
 __pycache__
+.DS_Store
+test_list
+time_file
+train_list
